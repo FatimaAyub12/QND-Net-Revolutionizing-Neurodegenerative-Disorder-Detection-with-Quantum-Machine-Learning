@@ -1,0 +1,2 @@
+# QND-Net-Revolutionizing-Neurodegenerative-Disorder-Detection-with-Quantum-Machine-Learning
+QND-Net is a quantum machine learning framework for early neurodegenerative disorder diagnosis, transforming MRI data into a high-dimensional space to enhance classification. Achieving 98% accuracy with improved computational efficiency, it offers precise, efficient diagnostics for Alzheimer’s and Parkinson’s detection
